@@ -1,1 +1,3 @@
-# file which store information of task in dictionary
+tasks = {}
+task_id = 1
+
